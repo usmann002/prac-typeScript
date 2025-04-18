@@ -1,2 +1,3 @@
 # prac-typeScript
-author -> Usman
+author -> Usman 
+hobby -> Trekking
