@@ -1,1 +1,2 @@
 # prac-typeScript
+author -> Usman
